@@ -32,9 +32,9 @@ function App() {
       </div>
       <div className='content'>
         <div className='preview-text'>
-          <p>AR World</p>
-          <p>3D dragon hero fighting</p>
-          <p>beathing fire</p>
+          <p style={{ fontSize: '48px', margin: 'unset' }}>AR World</p>
+          <p style={{ margin: 'unset' }}>3D dragon hero fighting</p>
+          <p style={{ margin: 'unset' }}>beathing fire</p>
         </div>
       </div>
       <div className='footer-bar'>
